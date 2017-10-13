@@ -1,10 +1,12 @@
-The Rainbow
+The Rainbow and the unicorns
 
 purple
 pink 
 ornage
 blue 
 green
+unicorn
 yellow
 red
 These are the colors of the rainbow.
+and the unicorn.
