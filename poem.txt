@@ -5,6 +5,7 @@ pink
 ornage
 blue 
 green
+indigo
 unicorn
 yellow
 red
